@@ -1,0 +1,52 @@
+前情回顾
+
+1. 外键约束
+
+    外键:  依赖另一张表的数据，创建索引
+    约束： 让从表关联字段不能出现主表主键没有的值
+          主表主键内容 删除或者修改有一定的限制
+
+    constraint [名字]
+    foreign key (外键字段)
+    references 主表(主键)
+    级联动作
+
+    删除： alter table [tb] drop foreign key 外键名称
+
+2. 表关系
+
+   一对多   多对多
+
+   E-R
+
+3. 多表关联查询
+
+   简单多表查询：
+    select col... from tb1,tb2 where ...
+
+   内连接查询
+    select col.. from
+    tb1 inner join tb2
+    on 关联条件
+    where ....
+
+   左连接查询
+   右连接查询
+    select col.. from
+    tb1 left/right join tb2
+    on 关联条件
+    where ....
+
+练习：
+编写一个函数，传入两个学生的名字，得到两个
+学生的分数之差
+
+
+练习
+编写一个存储过程，传入一个ID，删除该ID学生信息
+将id为1的学生成绩改为100分。
+
+
+作业： 1. 总结sql语句，分类整理
+      2. 今天语句和知识点熟练
+      3. 函数和类 熟练

@@ -1,0 +1,30 @@
+前情回顾
+
+1. tcp传输特点
+
+   连接： 在数据传输前必须建立连接
+   可靠: 保障机制  数据不丢失不错乱
+   效率： 相较于udp稍微麻烦
+
+2. 三次握手和四次挥手
+
+   SYN   ACK   FIN  seq  ack
+
+3. tcp编程
+
+服务端
+socket->bind->listen->accept->recv/send->close
+
+客户端
+socket-------------->connect->send/recv->close
+
+4. tcp传输细节
+
+recv返回空的情况
+send发送管道破裂
+网络收发缓冲区
+粘包问题--》字节流
+
+5. TCP 和 UDP对比
+
+6. 数据传输过

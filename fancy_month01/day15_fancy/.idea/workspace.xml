@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d88a943-3bfd-4351-a5e1-3b392c92a7a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1loBLjsm1rNM0rFHb51ft5PT026" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OBJECT_ORIENTED_01" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day15_note" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.employee_static">
+    <configuration name="employee_static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day15_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day15_note" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day15_note/employee_static.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function_static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day15_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day15_note" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day15_note/function_static.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function_thinking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day15_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day15_note" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day15_note/function_thinking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iterable_tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day15_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day15_note/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day15_note/common/iterable_tool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zip_item1_item2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day15_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day15_note" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day15_note/zip_item1_item2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.employee_static" />
+        <item itemvalue="Python.iterable_tool" />
+        <item itemvalue="Python.function_static" />
+        <item itemvalue="Python.function_thinking" />
+        <item itemvalue="Python.zip_item1_item2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d88a943-3bfd-4351-a5e1-3b392c92a7a5" name="Default Changelist" comment="" />
+      <created>1608253509438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608253509438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="265" width="574" height="229" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1608258579591">
+      <screen x="43" y="27" width="1875" height="900" />
+    </state>
+    <state x="1085" y="265" width="574" height="229" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/43.27.1875.900@43.27.1875.900" timestamp="1608258579591" />
+    <state x="735" y="258" key="FileChooserDialogImpl" timestamp="1608367431838">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="735" y="258" key="FileChooserDialogImpl/43.27.1877.1053@43.27.1877.1053" timestamp="1608367431838" />
+    <state width="968" height="396" key="GridCell.Tab.0.bottom" timestamp="1608284476019">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1845" height="224" key="GridCell.Tab.0.bottom/43.27.1871.896@43.27.1871.896" timestamp="1608255275866" />
+    <state width="1849" height="224" key="GridCell.Tab.0.bottom/43.27.1875.900@43.27.1875.900" timestamp="1608259381168" />
+    <state width="968" height="396" key="GridCell.Tab.0.bottom/43.27.1877.1053@43.27.1877.1053" timestamp="1608284476019" />
+    <state width="968" height="396" key="GridCell.Tab.0.center" timestamp="1608284476019">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1845" height="224" key="GridCell.Tab.0.center/43.27.1871.896@43.27.1871.896" timestamp="1608255275866" />
+    <state width="1849" height="224" key="GridCell.Tab.0.center/43.27.1875.900@43.27.1875.900" timestamp="1608259381167" />
+    <state width="968" height="396" key="GridCell.Tab.0.center/43.27.1877.1053@43.27.1877.1053" timestamp="1608284476019" />
+    <state width="968" height="396" key="GridCell.Tab.0.left" timestamp="1608284476018">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1845" height="224" key="GridCell.Tab.0.left/43.27.1871.896@43.27.1871.896" timestamp="1608255275866" />
+    <state width="1849" height="224" key="GridCell.Tab.0.left/43.27.1875.900@43.27.1875.900" timestamp="1608259381166" />
+    <state width="968" height="396" key="GridCell.Tab.0.left/43.27.1877.1053@43.27.1877.1053" timestamp="1608284476018" />
+    <state width="968" height="396" key="GridCell.Tab.0.right" timestamp="1608284476019">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1845" height="224" key="GridCell.Tab.0.right/43.27.1871.896@43.27.1871.896" timestamp="1608255275866" />
+    <state width="1849" height="224" key="GridCell.Tab.0.right/43.27.1875.900@43.27.1875.900" timestamp="1608259381167" />
+    <state width="968" height="396" key="GridCell.Tab.0.right/43.27.1877.1053@43.27.1877.1053" timestamp="1608284476019" />
+    <state width="1851" height="340" key="GridCell.Tab.1.bottom" timestamp="1608284072667">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1851" height="340" key="GridCell.Tab.1.bottom/43.27.1877.1053@43.27.1877.1053" timestamp="1608284072667" />
+    <state width="1851" height="340" key="GridCell.Tab.1.center" timestamp="1608284072667">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1851" height="340" key="GridCell.Tab.1.center/43.27.1877.1053@43.27.1877.1053" timestamp="1608284072667" />
+    <state width="1851" height="340" key="GridCell.Tab.1.left" timestamp="1608284072666">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1851" height="340" key="GridCell.Tab.1.left/43.27.1877.1053@43.27.1877.1053" timestamp="1608284072666" />
+    <state width="1851" height="340" key="GridCell.Tab.1.right" timestamp="1608284072667">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1851" height="340" key="GridCell.Tab.1.right/43.27.1877.1053@43.27.1877.1053" timestamp="1608284072667" />
+    <state x="124" y="192" width="680" height="822" key="dock-window-1" timestamp="1608261534983">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="124" y="192" width="680" height="822" key="dock-window-1/43.27.1877.1053@43.27.1877.1053" timestamp="1608261534983" />
+    <state x="970" y="136" width="794" height="1044" key="dock-window-2" timestamp="1608285305928">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="970" y="136" width="794" height="1044" key="dock-window-2/43.27.1877.1053@43.27.1877.1053" timestamp="1608285305928" />
+    <state x="960" y="246" width="719" height="678" key="search.everywhere.popup" timestamp="1608261628631">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="960" y="246" width="719" height="678" key="search.everywhere.popup/43.27.1877.1053@43.27.1877.1053" timestamp="1608261628631" />
+  </component>
+</project>

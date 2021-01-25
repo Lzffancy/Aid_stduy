@@ -1,0 +1,15 @@
+作业
+1. 三合一
+2. 当天练习独立完成
+3. 员工信息管理系统
+    (1)录入员工信息
+    (2)显示员工信息
+    (3)删除员工信息
+    (4)修改员工信息
+
+class Employee:
+    def __init__(self, eid, did, name, money):
+        self.eid = eid # 员工编号
+        self.did = did # 部门编号
+        self.name = name # 姓名
+        self.money = money # 薪资

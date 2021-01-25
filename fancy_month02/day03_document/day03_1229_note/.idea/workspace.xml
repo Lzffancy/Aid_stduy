@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2e9811a-ac11-49f2-8b0a-08b7d8b18d6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mJJFgTtRmAP52PUnemjEVvVixo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.seek">
+    <configuration name="bytes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day03_1219_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bytes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day03_1219_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/copy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flush" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day03_1219_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flush.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="os_study" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day03_1219_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/os_study.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seek" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day03_1219_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seek.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.seek" />
+        <item itemvalue="Python.bytes" />
+        <item itemvalue="Python.os_study" />
+        <item itemvalue="Python.flush" />
+        <item itemvalue="Python.copy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e9811a-ac11-49f2-8b0a-08b7d8b18d6b" name="Default Changelist" comment="" />
+      <created>1609205657828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609205657828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1067" height="379" key="GridCell.Tab.0.bottom" timestamp="1609289677103">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="379" key="GridCell.Tab.0.bottom/35.27.1885.1173@35.27.1885.1173" timestamp="1609289677103" />
+    <state width="913" height="364" key="GridCell.Tab.0.bottom/43.27.1877.1173@43.27.1877.1173" timestamp="1609223305665" />
+    <state width="1067" height="379" key="GridCell.Tab.0.center" timestamp="1609289677101">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="379" key="GridCell.Tab.0.center/35.27.1885.1173@35.27.1885.1173" timestamp="1609289677101" />
+    <state width="913" height="364" key="GridCell.Tab.0.center/43.27.1877.1173@43.27.1877.1173" timestamp="1609223305661" />
+    <state width="1067" height="379" key="GridCell.Tab.0.left" timestamp="1609289677100">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="379" key="GridCell.Tab.0.left/35.27.1885.1173@35.27.1885.1173" timestamp="1609289677100" />
+    <state width="913" height="364" key="GridCell.Tab.0.left/43.27.1877.1173@43.27.1877.1173" timestamp="1609223305660" />
+    <state width="1067" height="379" key="GridCell.Tab.0.right" timestamp="1609289677102">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="379" key="GridCell.Tab.0.right/35.27.1885.1173@35.27.1885.1173" timestamp="1609289677102" />
+    <state width="913" height="364" key="GridCell.Tab.0.right/43.27.1877.1173@43.27.1877.1173" timestamp="1609223305664" />
+    <state x="95" y="104" key="SettingsEditor" timestamp="1609235605405">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="95" y="104" key="SettingsEditor/35.27.1885.1173@35.27.1885.1173" timestamp="1609235605405" />
+    <state x="103" y="104" key="SettingsEditor/43.27.1877.1173@43.27.1877.1173" timestamp="1609222258570" />
+    <state x="1070" y="124" width="837" height="727" key="dock-window-1" timestamp="1609228768595">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="1070" y="124" width="837" height="727" key="dock-window-1/35.27.1885.1173@35.27.1885.1173" timestamp="1609228768595" />
+    <state x="936" y="300" width="719" height="678" key="search.everywhere.popup" timestamp="1609213117506">
+      <screen x="43" y="27" width="1877" height="1173" />
+    </state>
+    <state x="936" y="300" width="719" height="678" key="search.everywhere.popup/43.27.1877.1173@43.27.1877.1173" timestamp="1609213117506" />
+  </component>
+</project>

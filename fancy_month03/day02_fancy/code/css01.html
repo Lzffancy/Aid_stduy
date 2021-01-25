@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>css特性</title>
+    <style>
+         /* body全局 */
+    body{text-align:center;}
+    /* 小结
+选择器样式冲突
+1.优先级
+id 100>class.伪类 10 > 标签 1
+后代、子代 按选择器累加
+群组分开计算
+2.权重相同，后执行生效 */
+     
+    /* 标签 1 */
+    h1{background-color: aqua; color:orange;}
+    /* id 100 */
+    #title{color: green}
+    /* 标签 1 */
+    h1{color:hotpink}
+    /* 类选择 10 */
+    .red{color: indigo}
+    /* 子代 标签+标签  2 */
+    body>h1{color: navy}
+    /* 群组  1 */
+    a，b,c，h1{color:saddlebrown}
+    </style>
+</head>
+<body>
+    <h1 id="title" class='red' >hello web</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus sapiente voluptatem itaque eius error ratione enim at iusto fugit aperiam sit reiciendis maiores quis sequi, accusantium rem odit natus ipsam.</p>
+</body>
+</html>

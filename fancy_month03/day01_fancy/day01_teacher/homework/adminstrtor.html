@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ch">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>增加管理员</title>
+</head>
+
+<body>
+
+    <form action="" method="GET">
+        <table border="0px" cellspacing='0px' width="" height="">
+            <!-- 1 -->
+            <tr>
+                <td colspan="3">
+                    <h1>增加管理员</h1><br>
+                </td>
+            </tr>
+            <!-- 2 -->
+            <tr>
+                <td>姓名：</td>
+                <td><input type="text" name="user" placeholder="name" maxlength="10"></td>
+                <td><div>十个字符以内</div></td>
+            </tr>
+            <!-- 3 -->
+            <tr>
+                <td>密码：</td>
+                <td><input type="text" name="user" placeholder="name" maxlength="10"></td>
+                <td><div>十个字符以内</div></td>
+
+                <!-- 4 -->
+            <tr>
+                <td>性别：</td>
+                <td><input type="radio" checked name='gender' value="1">男
+                    <input type="radio" name='gender' value="0">女
+                </td>
+                <td></td>
+
+            </tr>
+            <tr>
+
+                <td rowspan="2">角色：</td>
+                <td><input type="checkbox" name='character' value="1">超级管理员</td>
+                <td rowspan="2">至少选择一个角色</td>
+            </tr>
+
+
+            <!-- 5 -->
+            <tr>
+                <td><input type="checkbox" name='character' value="0">菜单管理员</td>
+
+            </tr>
+            <!-- 6 -->
+            <tr>
+                <td>头像：</td>
+                <td colspan="2"><input type="file" name='file_path'></td>
+
+            </tr>
+
+            <!-- 7 -->
+            <tr>
+                <td></td>
+                <td colspan="2"><input type="submit" value="保存"><input type="reset" value="重置"></td>
+
+            </tr>
+        </table>
+
+    </form>
+
+</body>
+
+</html>

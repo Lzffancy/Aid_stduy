@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>字体、文本属性</title>
+</head>
+<style>
+    div {
+        width: 300px;
+        height: 300px;
+        font-size: 30px;
+        /* 加粗 b */
+        font-weight: bold;
+        /* 倾斜 i */
+        font-style: italic;
+        font-family: monospace;
+        background-color: green;
+        
+        /* 行内居中 此时宽度参照div宽度 */
+        text-align: center;
+        /* 将行高设置为 div同高，实现div内居中 */
+        line-height: 300px;
+    }
+
+    .div02 {
+        font: italic bold 15px normal;
+        color:#6F8B2E;
+        text-decoration: underline;
+        line-height: 300px;
+    }
+
+    a {
+        font: italic bold 50px monospace;
+        color: seagreen;
+        text-decoration: none;
+        
+    }
+
+    a:hover {
+        color: #031135;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+
+    /* 文字调整间隔 左右适应页面大小 */
+    p {
+        text-align: justify
+    }
+</style>
+
+<body>
+    <div>hello word</div>
+    <br>
+    <!-- 此项与div存在继承关系 -->
+    <div class="div02">hello word!!!!</div>
+    <a href="www.baidu.com">百度</a>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit quae assumenda rerum. Minus debitis ab
+        blanditiis rem exercitationem inventore architecto facere voluptas velit possimus quas obcaecati, temporibus
+        placeat alias nostrum.lorem
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi, laborum, repudiandae dolor odio possimus
+        aliquid illum rerum quae error quo dolore! Nisi sapiente rem molestias nesciunt possimus vel officia omnis.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore non delectus at velit voluptates error
+        obcaecati, ipsum, sunt sit mollitia eius cumque quod aspernatur dolorem deserunt nihil facilis tenetur
+        praesentium!
+    </p>
+</body>
+
+</html>

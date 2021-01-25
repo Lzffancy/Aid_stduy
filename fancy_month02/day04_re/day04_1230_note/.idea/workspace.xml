@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1eeb2c8-6b85-4ca7-874c-067964f2303d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mM3uPZfoUqIgyzkBbZ4hNnZjop" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="RunManager" selected="Python.slice_file_by">
+    <configuration name="log_find_address" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day04_1230_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log_find_address.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log_find_address02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day04_1230_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log_find_address02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day04_1230_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day04_1230_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slice_file_by" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day04_1230_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/slice_file_by.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.slice_file_by" />
+        <item itemvalue="Python.log_find_address02" />
+        <item itemvalue="Python.log_find_address" />
+        <item itemvalue="Python.re_exercise" />
+        <item itemvalue="Python.re_" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1eeb2c8-6b85-4ca7-874c-067964f2303d" name="Default Changelist" comment="" />
+      <created>1609289854832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609289854832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="918" y="125" width="902" height="975" key="DiffContextDialog" timestamp="1609325190692">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="918" y="125" width="902" height="975" key="DiffContextDialog/35.27.1885.1173@35.27.1885.1173" timestamp="1609325190692" />
+    <state x="701" y="370" key="FileChooserDialogImpl" timestamp="1609376506914">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="701" y="370" key="FileChooserDialogImpl/35.27.1885.1173@35.27.1885.1173" timestamp="1609376506914" />
+    <state width="1067" height="385" key="GridCell.Tab.0.bottom" timestamp="1609333095378">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="385" key="GridCell.Tab.0.bottom/35.27.1885.1173@35.27.1885.1173" timestamp="1609333095378" />
+    <state width="1067" height="385" key="GridCell.Tab.0.center" timestamp="1609333095377">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="385" key="GridCell.Tab.0.center/35.27.1885.1173@35.27.1885.1173" timestamp="1609333095377" />
+    <state width="1067" height="385" key="GridCell.Tab.0.left" timestamp="1609333095376">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="385" key="GridCell.Tab.0.left/35.27.1885.1173@35.27.1885.1173" timestamp="1609333095376" />
+    <state width="1067" height="385" key="GridCell.Tab.0.right" timestamp="1609333095378">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="385" key="GridCell.Tab.0.right/35.27.1885.1173@35.27.1885.1173" timestamp="1609333095378" />
+    <state width="1067" height="385" key="GridCell.Tab.1.bottom" timestamp="1609333095390">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="385" key="GridCell.Tab.1.bottom/35.27.1885.1173@35.27.1885.1173" timestamp="1609333095390" />
+    <state width="1067" height="385" key="GridCell.Tab.1.center" timestamp="1609333095388">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="385" key="GridCell.Tab.1.center/35.27.1885.1173@35.27.1885.1173" timestamp="1609333095388" />
+    <state width="1067" height="385" key="GridCell.Tab.1.left" timestamp="1609333095378">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="385" key="GridCell.Tab.1.left/35.27.1885.1173@35.27.1885.1173" timestamp="1609333095378" />
+    <state width="1067" height="385" key="GridCell.Tab.1.right" timestamp="1609333095389">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="1067" height="385" key="GridCell.Tab.1.right/35.27.1885.1173@35.27.1885.1173" timestamp="1609333095389" />
+    <state x="35" y="607" width="776" height="576" maximized="true" key="dock-window-1" timestamp="1609330721295">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="35" y="607" width="776" height="576" maximized="true" key="dock-window-1/35.27.1885.1173@35.27.1885.1173" timestamp="1609330721295" />
+    <state x="997" y="287" width="719" height="678" key="search.everywhere.popup" timestamp="1609316201511">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="997" y="287" width="719" height="678" key="search.everywhere.popup/35.27.1885.1173@35.27.1885.1173" timestamp="1609316201511" />
+  </component>
+</project>

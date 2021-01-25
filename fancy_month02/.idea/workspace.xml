@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="491cf287-853d-4585-88bc-4109cfd6699c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/day18_project/day18_0120_note/project/git_modify.py" beforeDir="false" afterPath="$PROJECT_DIR$/day18_project/day18_0120_note/project/git_modify.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fancy_month02" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/day18_project/day18_0120_note/project" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day15_multi_concurrent/day15_0117_note/ftp_app/ftp_client.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1mOtY8YIC8IQecY8SI9TaVizWav" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day19_onlinedict/dict_cs02" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day19_onlinedict/day19_note" />
+      <recent name="$PROJECT_DIR$/day19_onlinedict" />
+      <recent name="$PROJECT_DIR$/day19_onlinedict/day19/dict_cs01" />
+      <recent name="$PROJECT_DIR$/day19_onlinedict/dict_cs" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day19_onlinedict/dict_cs02" />
+      <recent name="$PROJECT_DIR$/day19_onlinedict/dict_cs01" />
+      <recent name="$PROJECT_DIR$/day15_multi_concurrent/day15_0117_note/ftp_app" />
+      <recent name="$PROJECT_DIR$/03_network" />
+      <recent name="$PROJECT_DIR$/day18_project/day18_0120_note/project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dict_client (1)">
+    <configuration name="dict_client (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fancy_month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19_onlinedict/dict_cs02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19_onlinedict/dict_cs02/dict_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fancy_month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19_onlinedict/dict_cs02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19_onlinedict/dict_cs02/dict_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fancy_month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19_onlinedict/dict_cs02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19_onlinedict/dict_cs02/dict_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draft_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fancy_month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draft_box" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draft_box/draft_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="join_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fancy_month02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/draft_box" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draft_box/join_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dict_client (1)" />
+        <item itemvalue="Python.dict_server (1)" />
+        <item itemvalue="Python.join_test" />
+        <item itemvalue="Python.draft_11" />
+        <item itemvalue="Python.dict_db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="491cf287-853d-4585-88bc-4109cfd6699c" name="Default Changelist" comment="" />
+      <created>1609376509173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609376509173</updated>
+      <workItem from="1610719740088" duration="820000" />
+      <workItem from="1610767306939" duration="6775000" />
+      <workItem from="1610885086975" duration="10457000" />
+      <workItem from="1610980976750" duration="2293000" />
+      <workItem from="1611067276925" duration="2481000" />
+    </task>
+    <task id="LOCAL-00001" summary="add ignore file">
+      <created>1611114240539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611114240539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add README.md">
+      <created>1611114306070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611114306070</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add tom_work.py">
+      <created>1611125091410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611125091410</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add tom_work.py">
+      <created>1611125403741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611125403741</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add fancy_word.py !!!">
+      <created>1611127065625</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611127065625</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add fancy_word.py !!!">
+      <created>1611127512708</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611127512708</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add fancy_word.py !!!">
+      <created>1611127579739</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611127579739</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add fancy_word.py !!!">
+      <created>1611127618380</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611127618380</updated>
+    </task>
+    <task id="LOCAL-00009" summary="readme by tom and fancy">
+      <created>1611127833365</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611127833365</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22826000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/day18_project/day18_0120_note/projiect" />
+      <path value="$PROJECT_DIR$/day18_project/day18_0120_note/project" />
+      <path value="$PROJECT_DIR$/day18_project/day18_0120_note/project/auto-submit" />
+    </ignored-roots>
+    <MESSAGE value="add ignore file" />
+    <MESSAGE value="add README.md" />
+    <MESSAGE value="add tom_work.py" />
+    <MESSAGE value="add tom_work.py !!!" />
+    <MESSAGE value="add fancy_word.py !!!" />
+    <MESSAGE value="readme by tom and fancy" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme by tom and fancy" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1023" y="274" width="800" height="677" key="#Notifications" timestamp="1611125919366">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="1023" y="274" width="800" height="677" key="#Notifications/35.27.1885.1173@35.27.1885.1173" timestamp="1611125919366" />
+    <state x="35" y="516" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609729091380">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="35" y="516" key="#com.intellij.execution.impl.EditConfigurationsDialog/35.27.1885.1173@35.27.1885.1173" timestamp="1609729091380" />
+    <state x="964" y="411" width="816" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610972816265">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="964" y="411" width="816" height="402" key="#com.intellij.fileTypes.FileTypeChooser/35.27.1885.1173@35.27.1885.1173" timestamp="1610972816265" />
+    <state x="315" y="360" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610973589295">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="315" y="360" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/35.27.1885.1173@35.27.1885.1173" timestamp="1610973589295" />
+    <state x="1066" y="465" width="541" height="619" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1610680660496">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="1066" y="465" width="541" height="619" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/35.27.1885.1173@35.27.1885.1173" timestamp="1610680660496" />
+    <state x="81" y="210" width="649" height="805" key="#m_process01" timestamp="1610519403573">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="81" y="210" width="649" height="805" key="#m_process01/35.27.1885.1173@35.27.1885.1173" timestamp="1610519403573" />
+    <state x="227" y="457" width="549" height="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1611227416831">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="227" y="457" width="549" height="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/35.27.1885.1173@35.27.1885.1173" timestamp="1611227416831" />
+    <state x="469" y="152" width="1095" height="822" key="CommitChangelistDialog2" timestamp="1611127833253">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="469" y="152" width="1095" height="822" key="CommitChangelistDialog2/35.27.1885.1173@35.27.1885.1173" timestamp="1611127833253" />
+    <state x="258" y="79" width="1508" height="968" key="DiffContextDialog" timestamp="1611127037287">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="258" y="79" width="1508" height="968" key="DiffContextDialog/35.27.1885.1173@35.27.1885.1173" timestamp="1611127037287" />
+    <state x="912" y="373" key="FileChooserDialogImpl" timestamp="1610585237676">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="912" y="373" key="FileChooserDialogImpl/35.27.1885.1173@35.27.1885.1173" timestamp="1610585237676" />
+    <state width="929" height="289" key="GridCell.Tab.0.bottom" timestamp="1611374434862">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="929" height="289" key="GridCell.Tab.0.bottom/35.27.1885.1173@35.27.1885.1173" timestamp="1611374434862" />
+    <state width="929" height="289" key="GridCell.Tab.0.center" timestamp="1611374434861">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="929" height="289" key="GridCell.Tab.0.center/35.27.1885.1173@35.27.1885.1173" timestamp="1611374434861" />
+    <state width="929" height="289" key="GridCell.Tab.0.left" timestamp="1611374434861">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="929" height="289" key="GridCell.Tab.0.left/35.27.1885.1173@35.27.1885.1173" timestamp="1611374434861" />
+    <state width="929" height="289" key="GridCell.Tab.0.right" timestamp="1611374434861">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="929" height="289" key="GridCell.Tab.0.right/35.27.1885.1173@35.27.1885.1173" timestamp="1611374434861" />
+    <state width="958" height="295" key="GridCell.Tab.1.bottom" timestamp="1610369176444">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="958" height="295" key="GridCell.Tab.1.bottom/35.27.1885.1173@35.27.1885.1173" timestamp="1610369176444" />
+    <state width="958" height="295" key="GridCell.Tab.1.center" timestamp="1610369176443">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="958" height="295" key="GridCell.Tab.1.center/35.27.1885.1173@35.27.1885.1173" timestamp="1610369176443" />
+    <state width="958" height="295" key="GridCell.Tab.1.left" timestamp="1610369176443">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="958" height="295" key="GridCell.Tab.1.left/35.27.1885.1173@35.27.1885.1173" timestamp="1610369176443" />
+    <state width="958" height="295" key="GridCell.Tab.1.right" timestamp="1610369176443">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state width="958" height="295" key="GridCell.Tab.1.right/35.27.1885.1173@35.27.1885.1173" timestamp="1610369176443" />
+    <state x="35" y="233" width="1408" height="730" key="SettingsEditor" timestamp="1611192479039">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="35" y="233" width="1408" height="730" key="SettingsEditor/35.27.1885.1173@35.27.1885.1173" timestamp="1611192479039" />
+    <state x="1144" y="529" width="559" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611125925597">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="1144" y="529" width="559" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/35.27.1885.1173@35.27.1885.1173" timestamp="1611125925597" />
+    <state x="992" y="27" width="928" height="1160" key="dock-window-1" timestamp="1611372413855">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="992" y="27" width="928" height="1160" key="dock-window-1/35.27.1885.1173@35.27.1885.1173" timestamp="1611372413855" />
+    <state x="1176" y="146" width="698" height="1158" key="dock-window-2" timestamp="1611201100754">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="1176" y="146" width="698" height="1158" key="dock-window-2/35.27.1885.1173@35.27.1885.1173" timestamp="1611201100754" />
+    <state x="657" y="28" width="674" height="1160" key="dock-window-3" timestamp="1611214926487">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="657" y="28" width="674" height="1160" key="dock-window-3/35.27.1885.1173@35.27.1885.1173" timestamp="1611214926487" />
+    <state x="1199" y="180" width="822" height="1124" key="dock-window-4" timestamp="1611214155123">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="1199" y="180" width="822" height="1124" key="dock-window-4/35.27.1885.1173@35.27.1885.1173" timestamp="1611214155123" />
+    <state x="1217" y="28" width="698" height="1141" key="dock-window-5" timestamp="1611217622870">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="1217" y="28" width="698" height="1141" key="dock-window-5/35.27.1885.1173@35.27.1885.1173" timestamp="1611217622870" />
+    <state x="876" y="27" width="401" height="566" maximized="true" key="dock-window-6" timestamp="1611232598328">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="876" y="27" width="401" height="566" maximized="true" key="dock-window-6/35.27.1885.1173@35.27.1885.1173" timestamp="1611232598328" />
+    <state x="44" y="107" width="959" height="1011" key="find.popup" timestamp="1611212758812">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="44" y="107" width="959" height="1011" key="find.popup/35.27.1885.1173@35.27.1885.1173" timestamp="1611212758812" />
+    <state x="1220" y="250" width="501" height="725" key="refactoring.ChangeSignatureDialog" timestamp="1610627311938">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="1220" y="250" width="501" height="725" key="refactoring.ChangeSignatureDialog/35.27.1885.1173@35.27.1885.1173" timestamp="1610627311938" />
+    <state x="852" y="363" width="719" height="678" key="search.everywhere.popup" timestamp="1611057134064">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="852" y="363" width="719" height="678" key="search.everywhere.popup/35.27.1885.1173@35.27.1885.1173" timestamp="1611057134064" />
+    <state x="165" y="523" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1610937891013">
+      <screen x="35" y="27" width="1885" height="1173" />
+    </state>
+    <state x="165" y="523" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/35.27.1885.1173@35.27.1885.1173" timestamp="1610937891013" />
+  </component>
+</project>

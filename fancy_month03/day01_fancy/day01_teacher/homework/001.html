@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ch">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>增加管理员</title>
+</head>
+
+<body>
+
+    <form action="" method="GET">
+    <table border="1px" cellspacing='0px' width="600px" height="330px">
+        <!-- 1 -->
+        <tr>
+            <td colspan="3">
+                <h1>增加管理员</h1><br>
+            </td>
+        </tr>
+        <!-- 2 -->
+        <tr>
+            <td colspan="2">
+                <div>
+                    姓名： <input type="text" name="user" placeholder="name" maxlength="10">
+                    <br>
+                    密码： <input type="password" name="pswd" placeholder="password" maxlength="10">
+                </div>
+
+            </td>
+
+            <td>
+                <div>十个字符以内
+                    <br>十个字符以内</div>
+                
+                
+            </td>
+        </tr>
+        <!-- 3 -->
+        <!-- 4 -->
+        <tr>
+            <td colspan="3">
+                <div>
+
+                    <!-- 单选 默认男性checked -->
+                    性别：<input type="radio" checked name='gender' value="1">男
+                    <input type="radio" name='gender' value="0">女
+
+                </div>
+            </td>
+
+
+        </tr>
+        <tr>
+            <td>角色：</td>
+            <td><input type="checkbox" name='character' value="1">超级管理员<br>
+                <input type="checkbox" name='character' value="0">菜单管理员</td>
+            <td rowspan="2">至少选择一个角色</td>
+        </tr>
+
+
+        <!-- 5 -->
+        <tr>
+            <td></td>
+            <td></td>
+            
+        </tr>
+        <!-- 6 -->
+        <tr>
+
+            <td colspan="2">头像：<input type="file" name='file_path' ></td>
+           
+        </tr>
+
+        <!-- 7 -->
+        <tr>
+    
+            <td colspan="2"><input type="submit" value="保存"><input type="reset" value="重置"></td>
+            <td></td>
+        </tr>
+    </table>
+    
+    </form>
+
+</body>
+
+</html>

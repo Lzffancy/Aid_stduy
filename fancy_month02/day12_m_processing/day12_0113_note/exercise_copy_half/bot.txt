@@ -1,0 +1,23 @@
+程和tcp首部
+
+
+windows  macOS进程创建
+cookie:
+
+if __name__ == "__main__":
+    process = mp.Process(target = fun)
+    process.start()
+    process.join()
+
+
+练习01：
+编写一个程序，将一个大文件拆分为2个小文件
+上半部分拆为一个，下半部分一个，按照字节大小划分
+
+要求： 拆分过程需要同时执行，分别用两个子进程完成
+      查分完成后，打印提示 "拆分完毕"
+
+提示： os.path.getsize()
+      file.seek()
+
+难点： 不允许一次读取一半

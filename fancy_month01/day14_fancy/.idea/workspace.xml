@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c1ebd19-0e1e-467d-8ef6-34407a1bf413" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1llMt0iBrwNMckdSAASmyswEsGM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/student_info_manager_system" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/student_info_manager_system" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.generator_yield (1)">
+    <configuration name="custom00_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day14_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/custom00_range.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="custom01_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day14_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/custom01_iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generator_yield (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day14_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day13_1216_note" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day13_1216_note/generator_yield.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generator_yield" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day14_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator_yield.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tokenize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day14_fancy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/usr/lib/python3.6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/usr/lib/python3.6/tokenize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.generator_yield (1)" />
+        <item itemvalue="Python.tokenize" />
+        <item itemvalue="Python.generator_yield" />
+        <item itemvalue="Python.custom00_range" />
+        <item itemvalue="Python.custom01_iteration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c1ebd19-0e1e-467d-8ef6-34407a1bf413" name="Default Changelist" comment="" />
+      <created>1608167435443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608167435443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1176" y="232" key="FileChooserDialogImpl" timestamp="1608167897633">
+      <screen x="67" y="27" width="1847" height="896" />
+    </state>
+    <state x="1176" y="232" key="FileChooserDialogImpl/67.27.1847.896@67.27.1847.896" timestamp="1608167897633" />
+    <state width="1631" height="222" key="GridCell.Tab.0.bottom" timestamp="1608205339971">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1631" height="222" key="GridCell.Tab.0.bottom/43.27.1877.1053@43.27.1877.1053" timestamp="1608205339971" />
+    <state width="1631" height="158" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1608179456874" />
+    <state width="1631" height="222" key="GridCell.Tab.0.center" timestamp="1608205339969">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1631" height="222" key="GridCell.Tab.0.center/43.27.1877.1053@43.27.1877.1053" timestamp="1608205339969" />
+    <state width="1631" height="158" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1608179456870" />
+    <state width="1631" height="222" key="GridCell.Tab.0.left" timestamp="1608205339963">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1631" height="222" key="GridCell.Tab.0.left/43.27.1877.1053@43.27.1877.1053" timestamp="1608205339963" />
+    <state width="1631" height="158" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1608179456869" />
+    <state width="1631" height="222" key="GridCell.Tab.0.right" timestamp="1608205339970">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1631" height="222" key="GridCell.Tab.0.right/43.27.1877.1053@43.27.1877.1053" timestamp="1608205339970" />
+    <state width="1631" height="158" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1608179456872" />
+    <state width="1631" height="222" key="GridCell.Tab.1.bottom" timestamp="1608205339975">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1631" height="222" key="GridCell.Tab.1.bottom/43.27.1877.1053@43.27.1877.1053" timestamp="1608205339975" />
+    <state width="1631" height="174" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1608177674435" />
+    <state width="1631" height="222" key="GridCell.Tab.1.center" timestamp="1608205339973">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1631" height="222" key="GridCell.Tab.1.center/43.27.1877.1053@43.27.1877.1053" timestamp="1608205339973" />
+    <state width="1631" height="174" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1608177674434" />
+    <state width="1631" height="222" key="GridCell.Tab.1.left" timestamp="1608205339972">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1631" height="222" key="GridCell.Tab.1.left/43.27.1877.1053@43.27.1877.1053" timestamp="1608205339972" />
+    <state width="1631" height="174" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1608177674434" />
+    <state width="1631" height="222" key="GridCell.Tab.1.right" timestamp="1608205339974">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state width="1631" height="222" key="GridCell.Tab.1.right/43.27.1877.1053@43.27.1877.1053" timestamp="1608205339974" />
+    <state width="1631" height="174" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1608177674435" />
+    <state x="559" y="154" key="SettingsEditor" timestamp="1608202406647">
+      <screen x="43" y="27" width="1871" height="896" />
+    </state>
+    <state x="559" y="154" key="SettingsEditor/43.27.1871.896@43.27.1871.896" timestamp="1608202406647" />
+    <state x="813" y="187" key="SettingsEditor/43.27.1877.1053@43.27.1877.1053" timestamp="1608201442189" />
+    <state x="43" y="27" width="925" height="712" key="dock-window-1" timestamp="1608193311346">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="43" y="27" width="925" height="712" key="dock-window-1/43.27.1877.1053@43.27.1877.1053" timestamp="1608193311346" />
+    <state x="980" y="257" width="719" height="678" key="search.everywhere.popup" timestamp="1608178296973">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="980" y="257" width="719" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1608178296973" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day13_1216_note/generator_yield.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

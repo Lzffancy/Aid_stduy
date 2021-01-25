@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ch">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>表单！！！</title>
+</head>
+
+<body>
+    <!--get的提交格式 ?user=fancy&pswd=123456 -->
+    <!--POST的提交格式 -->
+    <form action="" method="GET">
+        <!-- 拥有name的input才会被提交 -->
+        <div>
+            <!-- id uname 只在html中使用，user作为提交的变量名 -->
+           <label for="uname">姓名：</label>
+           <input id ="uname" type="text" name="user" placeholder="name" maxlength="10">
+        </div>
+        <div>
+            密码： <input type="password" name="pswd" placeholder="password" maxlength="18">
+        </div>
+       <!-- 表单域内的submit -->
+        <input type="submit">
+    </form>
+
+
+
+    <form action="" method="GET">
+        <div>
+            <!-- 单选 -->
+            <input type="radio" name='answer' value="A">A
+            <input type="radio" name='answer' value="B">B
+            <input type="radio" name='answer' value="C">C
+            <input type="radio" name='answer' value="D">D
+            <input type="submit">
+        </div>
+    </form>
+
+   
+    <form action="" method="GET">
+            <div>
+                <!-- 单选 默认男性checked -->
+                <input type="radio" checked name='gender' value="1">男
+                <input type="radio" name='gender' value="0">女
+                <input type="submit">
+            </div>
+        </form>
+
+
+
+        <form action="" method="GET">
+                <div>
+                   <!-- 按住ctrl 多选 multiple -->
+                   地区：<select name="area" id="" size="3" multiple="multiple">
+                       <option selected value="001">水星A4</option>
+                       <option value="002">火星C8C79</option>
+                       <option value="003">艾欧尼亚E7</option>
+                       <option value="004">木星G61</option>
+                       <option value="004">木星G60</option>
+                       <option value="004">木星G6R4</option>
+                   </select>
+                   <input type="submit">
+                </div>
+            </form>
+
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ch">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>td_table</title>
+</head>
+
+<body><!-- 边界线粗细 ，  每个cell之间的间隔-->
+    <table border="1px" cellspacing ="0px">
+        <tr>
+            <td colspan="3">11</td>
+            <!-- <td>12</td> -->
+            <!-- <td>13</td> -->
+        </tr>
+        <tr>
+            <td>21</td>
+            <!-- 跨row删除行对应位置的td -->
+            <td rowspan="3">22</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <!-- <td>32</td> -->
+            <td>33</td>
+        </tr>
+        <tr>
+                <td>41</td>
+                <!-- <td>42</td> -->
+                <td>43</td>
+        </tr>
+    </table>
+</body>
+
+</html>

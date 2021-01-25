@@ -1,0 +1,87 @@
+前情回顾
+
+1. 视图  view
+
+   作用： 简化复杂的查找操作，提取整理部分数据
+         数据结构更加清晰  保证数据的安全
+
+   create view [view_name] as select.........
+   drop view [if exists] view
+
+2. 函数和存储过程
+
+   函数 ： 有返回值   得到一个明确的结果
+   存储过程：没有返回值
+
+   delimiter  $$
+
+   create function [func]() returns [type]
+   begin
+       declare a int;
+       函数体
+       return val;
+   end
+
+   set @a=1;
+   create procedure [proc](in a int)
+   begin
+       declare a int;
+       函数体
+   end
+   call proc()
+
+   drop function/procedure [name]
+
+3. 事务控制  （写操作）
+
+   事务 ： 一件事情从开始到完成
+
+   begin   commit  rollback
+
+   特性（ACID） ： 原子性  一致性  隔离性  持久性
+
+   隔离性 ：　隔离级别　－－》　可重复读　（幻象读）
+
+4.　数据库优化
+　
+　　数据库设计范式
+
+　　引擎的选择
+
+　　字段数据类型　和　键　的选择
+
+练习 ：
+
+编写一个程序，将dict.txt单词本中的单词存储到
+数据库中以的一个数据表里
+
+库 ： dict
+create database dict charset=utf8;
+
+表 ： words -->  id  word  mean
+create table words (
+id int primary key auto_increment,
+word char(30),
+mean varchar(512)
+);
+
+练习：
+在 stu 数据库下创建一个表 user
+
+user --> id   user   password
+
+create table user (
+id int primary key auto_increment,
+user char(30) not null unique,
+password char(64) not null
+);
+
+写一个类 ，类中需要有一个 注册方法 和 一个登录方法
+通过这两个方法可以完成注册登录功能
+注册的用户名 不能重复
+
+
+作业： 1. 练习没有独立完成的自己写完 
+
+
+

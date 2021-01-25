@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>选择器</title>
+    <style>
+        /* 指定id 或标签样式 标签匹配样式   少用id*/ 
+         #name,h2{color:rgba(252, 136, 200, 0.281);}
+        
+        
+        /* class 样式匹配标签*/
+         .pink{color:pink ;background-color:black;}
+         .black{color:black;background-color: pink;}
+         
+         /* 一般默认的字体大小为16px */
+         .H1{font-size:32px; }
+         
+         
+         /* 群组选择器 */
+         h1.pink,h1#title{text-align: center;}
+         /* 清除默认配置 */
+         h1,ul{padding: 0; margin: 0;}
+         
+         /* 子代选择器 */
+         body>ul>p{text-align: right;}
+
+         /* 后代选择器 */
+         body li{text-align: center;}
+         
+
+
+  
+    </style>
+</head>
+<body>
+    <h1 class="pink">以梦为马，不负韶华</h1>
+    <h1 id ="title">  你真的棒！</h1>
+    
+    <h2>lisa</h2>
+    <h3 id='name'>lisa!!!!</h2>
+
+
+   <ul>
+       <li class="pink H1">item1</li>
+       <li class="black">item2</li>
+       <li class="pink H1">item3</li>
+       <li class="black">item4</li>
+       <p>www.in your aera.com</p>
+
+   </ul>
+</body>
+</html>

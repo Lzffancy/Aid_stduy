@@ -1,0 +1,69 @@
+前情回顾
+
+1. tcp传输特点
+
+   连接： 在数据传输前必须建立连接
+   可靠: 保障机制  数据不丢失不错乱
+   效率： 相较于udp稍微麻烦
+
+2. 三次握手和四次挥手
+
+   SYN   ACK   FIN  seq  ack
+
+3. tcp编程
+
+服务端
+socket->bind->listen->accept->recv/send->close
+
+客户端
+socket-------------->connect->send/recv->close
+
+4. tcp传输细节
+
+recv返回空的情况
+send发送管道破裂
+网络收发缓冲区
+粘包问题--》字节流
+
+5. TCP 和 UDP对比
+
+6. 数据传输过程和tcp首部
+
+
+windows  macOS进程创建
+cookie:
+
+if __name__ == "__main__":
+    process = mp.Process(target = fun)
+    process.start()
+    process.join()
+
+
+练习01：
+编写一个程序，将一个大文件拆分为2个小文件
+上半部分拆为一个，下半部分一个，按照字节大小划分
+
+要求： 拆分过程需要同时执行，分别用两个子进程完成
+      查分完成后，打印提示 "拆分完毕"
+
+提示： os.path.getsize()
+      file.seek()
+
+难点： 不允许一次读取一半
+
+cookie:
+刷题指南，小泽推荐，逻辑不愁
+leetcode
+牛客网
+剑指offer
+掘金app
+
+作业： 1. 进程创建方法
+      2. 练习自己完成，写一下
+      3. 求100000以内质数之和，计算所用时间
+
+          函数：求100000以内质数之和
+          装饰器：计算所用时间
+
+
+

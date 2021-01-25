@@ -1,0 +1,82 @@
+前情回顾
+
+1. 数据库优化
+   SQL语句
+   表的拆分
+
+2. 数据库的备份
+
+   create table [tb]  select....
+
+   mysqldump
+
+3. 创建用户和分配权限
+
+   远程连接 ：  配置
+
+   创建用户 ： create user
+             drop  user
+
+   用户权限的分配 ：　grant
+                   revoke
+
+4. pymysql
+
+   db = pymysql.connect()
+   cur = db.cursor()
+
+   cur.execute()
+   cur.executemany()
+
+   db.commit()  db.rollback()
+   cur.fetchone() cur.fetchall()  cur.fetchmany()
+
+   cur.close()
+   db.close()
+
+   二进制文件存储
+
+
+数据管理部分总结
+
+文件处理
+
+ 文件读写（重点）： open()  read()/write()  close()
+
+ 正则表达式 ：　元字符　re模块　　
+
+数据库管理
+　
+　mysql特点，关系型数据库概念  （了解）
+
+  sql语句基础(必会)：创建表 创建库  增删改查  索引聚合  高级查询  关联查询
+
+  表的设计（难点）: 表关系和外键设计 注意优化
+
+  其他模块化知识（知道）： 函数存储过程  视图  事务  用户配置
+
+熟练使用mysql，redis等数据库进行开发工作
+
+精通数据库建设，能够熟练使用关系型和NoSQL进行数据业务模型搭建
+
+
+练习：
+修改udp服务端和客户端代码，让客户端可以循环的
+发送内容，接收Thanks。直到输入 ## 则两边都退出
+
+练习：
+使用udp完成网络单词查询
+从客户端输入单词，发送给服务端，得到单词的解释，打印
+出来
+利用 dict 数据库下的 words表来完成
+
+
+作业： 1. udp重点代码能够独立完成
+      2. 练习自己再看看
+      3. 数据处理 数据库语句
+
+
+
+
+
+

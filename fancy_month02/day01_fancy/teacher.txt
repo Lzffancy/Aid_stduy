@@ -1,0 +1,51 @@
+吕泽: lvze_work@126.com
+
+练习
+1. 使用绝对路径表达
+   主目录下month01下day03里有个homework.txt
+   /home/tarena/month01/day03/homework.txt
+
+2. 在 下载 这个文件夹中,用相对路径想找到
+   主目录下month01下day03里有个homework.txt
+
+   ../month01/day03/homework.txt
+
+   如果就在day03中呢?
+   ./homework.txt --> homework.txt
+
+3. 统计 根下etc目录下有多少个文件
+    ls /etc | wc -w
+
+4. 将我们第一阶段老师给的代码压缩为zip格式
+    cd
+    zip -r qtx.zip month01
+
+   将我们自己写的代码 压缩为bz2的格式
+    cd
+    tar -cjf myself.tar.bz2 qtx
+
+
+cookie:
+
+-d 可以用于指定解压位置
+unzip  -d ..  file.zip
+
+Linux操作权限
+
+root --> sudo --> 普通
+
+
+总结:
+1. 操作系统概念
+2. Linux操作系统构成
+3. Linux的特点和应用
+4. Linux文件系统结构
+5. 绝对路径相对路径
+7. 常用命令
+
+作业: 1. 将今天命令熟悉一遍
+     2. markdown自己会写
+
+
+
+

@@ -1,0 +1,23 @@
+"""
+    lambda 应用价值:
+        作为函数的实参
+"""
+from common.iterable_tools import IterableHelper
+
+list01 = [454, 56, 7, 78, 89]
+
+# def condition01(item):
+#     return item > 10
+
+condition01 = lambda item: item > 10
+
+
+def condition02(item):
+    return item < 50
+
+
+for item in IterableHelper.find_all(list01, condition01):
+    print(item)
+
+for item in IterableHelper.find_all(list01, lambda item: item < 50):
+    print(item)

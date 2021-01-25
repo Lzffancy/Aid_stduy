@@ -1,0 +1,2 @@
+#配置导入包中模块　在mian中就可以直接导入包
+from day13_1216_note.my_project02.skill_system.skill_manager import manager
